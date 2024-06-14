@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 332e91d774f20bf4abfcf5549aa03488
+  - enabled: 1
+    path: Assets/Scenes/MoveFloor.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Moveball.unity
+    guid: ca0f94b91879d1a47a763c0553af4cee
+  - enabled: 1
+    path: Assets/Scenes/HoleStart.unity
+    guid: c41a86241ffb3d8419895af072ffc84e
+  - enabled: 1
+    path: Assets/Scenes/Roll.unity
+    guid: 52a38a2d03eba8746a7b833c683209e7
+  m_configObjects: {}
